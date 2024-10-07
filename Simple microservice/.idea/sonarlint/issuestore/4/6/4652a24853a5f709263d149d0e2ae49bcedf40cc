@@ -1,0 +1,6 @@
+
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "users".(Ó²°8À—éÛ¡2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹¹‰èıÿÿÿÿ8Ä—éÛ¡2
+j
+java:S3655!"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(´ñìšşÿÿÿÿ8Ù—éÛ¡2
